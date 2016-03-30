@@ -1,1 +1,1 @@
-# Mongodb-Java
+# Mongodb-JavaRepository for source code examples about Java + Mongodb
